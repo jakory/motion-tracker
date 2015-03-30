@@ -1,0 +1,59 @@
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\openCVSpriteFactory.dll
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\openCVWrapper.dll
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.dll
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.pdb
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\Software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\openCVSpriteFactory.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\openCVWrapper.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.dll
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.pdb
+C:\Users\sdmello\Desktop\Dropbox\Dropbox\Software\motion_tracking\CVFinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakory\software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\jakory\software\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Users\jakory\software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.dll
+C:\Users\jakory\software\motion_tracking\CVFinalProject\bin\x86\Debug\SharperCVExtensions.pdb
+C:\Users\jakory\software\motion_tracking\CVFinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakory\software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\jakory\software\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\projects\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe.config
+C:\projects\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\projects\motion_tracking\CVFinalProject\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\projects\motion_tracking\CVFinalProject\bin\x86\Debug\OpenCvSharp.dll
+C:\projects\motion_tracking\CVFinalProject\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\projects\motion_tracking\CVFinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\projects\motion_tracking\CVFinalProject\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\projects\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.exe.config
+C:\projects\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\projects\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\projects\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\projects\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\projects\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OpenCvSharp.dll
+C:\projects\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\projects\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.exe.config
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OnlineExpressionDetection.cs.pdb
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\ExpressionDetection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\bin\x86\Debug\OnlineExpressionDetection.cs.exe.config
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Debug\OnlineExpressionDetection.cs.exe
+C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Debug\OnlineExpressionDetection.cs.pdb

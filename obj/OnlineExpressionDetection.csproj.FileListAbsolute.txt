@@ -1,0 +1,13 @@
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Release\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Release\openCVSpriteFactory.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Release\openCVWrapper.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Release\SharperCVExtensions.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\Release\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Debug\OnlineExpressionDetection.cs.exe
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Debug\OnlineExpressionDetection.cs.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Debug\SharperCVExtensions.dll
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\bin\Debug\SharperCVExtensions.pdb
+C:\Documents and Settings\sdmello\Desktop\motion_tracking\CVFinalProject\obj\Debug\ResolveAssemblyReference.cache
