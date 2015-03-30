@@ -1,9 +1,0 @@
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\bin\x86\Release\MotionTracker.exe.config
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\bin\x86\Release\MotionTracker.exe
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\MotionTracker.LiveCamSetupForm.resources
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\MotionTracker.MotionTrackerUI.resources
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\MotionTracker.exe
-C:\Users\jakory\Dropbox\software\motion_tracking_jk\MotionTracker\obj\x86\Release\MotionTracker.InternalParametersForm.resources
