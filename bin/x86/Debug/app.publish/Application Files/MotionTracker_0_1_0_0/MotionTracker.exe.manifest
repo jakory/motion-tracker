@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="0.1.0.0" name="MotionTracker.exe" publicKeyToken="62dcc6378fb04df2" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MotionTracker" version="0.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="MotionTracker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MathNet.Numerics.dll" size="937472">
+      <assemblyIdentity name="MathNet.Numerics" version="2011.4.17.0" publicKeyToken="CD8B63AD3D691A37" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>+rCa15/N2z2rgS379+vmvioh4x8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MotionTracker.exe" size="106496">
+      <assemblyIdentity name="MotionTracker" version="0.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2/KESegj10hfxgisGyGk/PA6Ei4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenCvSharp.dll" size="458240">
+      <assemblyIdentity name="OpenCvSharp" version="2.0.4208.41527" publicKeyToken="6ADAD1E807FEA099" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>u/gpR5rG68xAS0SNJuwt3T+u9a4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenCvSharp.Extensions.dll" size="19968">
+      <assemblyIdentity name="OpenCvSharp.Extensions" version="1.0.0.0" publicKeyToken="6ADAD1E807FEA099" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6hqMm8KL5hNGGQS//84DSiWnS/4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zlib.net.dll" size="69632">
+      <assemblyIdentity name="zlib.net" version="1.0.3.0" publicKeyToken="47D7877CB3620160" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>EPemkzo+0EsnT7EO1Y/fyNb/eD4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MotionTracker.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="readme.txt" size="6400">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iH2QlCTogl9dWXq+FpK65wfCNSI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN={4D0D855A-E536-440C-9AAD-CC03ED44C628}" issuerKeyHash="df83ff8bf1f728940c9fe4e1b4aa3e90eb3c4807" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bjYnlgaEVZizw8PSdEihf7kj65U=</DigestValue></Reference></SignedInfo><SignatureValue>YqiIldxenjA5AmrJMEkswh0wPpXNCu3rE1x+Rh+jDDNZ7MngVAJiJdSDbJcF/dgHeJqAElwZKMYl6f43IktFJAnPtTf+YEJWPYLMHWQh668uaQ+52EEGT6mdzO0yoC/NvGS2MaoW1H55UOfA7dImwitP6xDHtesnbAVXGZZKEsU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0ttE0uwVTQ7eMrA7NdtboQdDmR1A1Q+0Td8bWHSiq7mZwi7JQqXHrTaSb7piFipodx1jTB0tCsSU0b3xBOCFszCiJ01N+0pcyGsWPJpwqvhGE01M+5fRT/m/+YGYUI1Df4O2oNKfS7+JwKnce6FGE535kaH3tS5UbiPenktHnO0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="95eb23b97fa14874d2c3c3b3985584069627366e" Description="" Url=""><as:assemblyIdentity version="0.1.0.0" name="MotionTracker.exe" publicKeyToken="62dcc6378fb04df2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN={4D0D855A-E536-440C-9AAD-CC03ED44C628}</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>enxrIe6v6dnHzR+KqgmiBwm7tyY=</DigestValue></Reference></SignedInfo><SignatureValue>qArSy/fdCc3OZm/oq55H5NM9JRPgYdFxK1qO+OLk3uWIBzPDv2wjyRdiWmi/IMSbpDREBTdRoejx+LegQHwk0i9EJpQbGlupxm6ao1/DdnamutW+G5g9rMA0A6Y7KhfgETeZ9yTsDykp1X2R106EGkqB6jCjCMioC4msBhweUdQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0ttE0uwVTQ7eMrA7NdtboQdDmR1A1Q+0Td8bWHSiq7mZwi7JQqXHrTaSb7piFipodx1jTB0tCsSU0b3xBOCFszCiJ01N+0pcyGsWPJpwqvhGE01M+5fRT/m/+YGYUI1Df4O2oNKfS7+JwKnce6FGE535kaH3tS5UbiPenktHnO0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICMTCCAZqgAwIBAgIQbnhiZd0ZtbdNMjLaFCOrTDANBgkqhkiG9w0BAQUFADBXMVUwUwYDVQQDHkwAewA0AEQAMABEADgANQA1AEEALQBFADUAMwA2AC0ANAA0ADAAQwAtADkAQQBBAEQALQBDAEMAMAAzAEUARAA0ADQAQwA2ADIAOAB9MB4XDTEyMDQxODE5MTIwOVoXDTEzMDQxOTAxMTIwOVowVzFVMFMGA1UEAx5MAHsANABEADAARAA4ADUANQBBAC0ARQA1ADMANgAtADQANAAwAEMALQA5AEEAQQBEAC0AQwBDADAAMwBFAEQANAA0AEMANgAyADgAfTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0ttE0uwVTQ7eMrA7NdtboQdDmR1A1Q+0Td8bWHSiq7mZwi7JQqXHrTaSb7piFipodx1jTB0tCsSU0b3xBOCFszCiJ01N+0pcyGsWPJpwqvhGE01M+5fRT/m/+YGYUI1Df4O2oNKfS7+JwKnce6FGE535kaH3tS5UbiPenktHnO0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQC1tFqVGYszyf5jyieVbyogpfuiKATCO4/cK7ggwq9sR9BmgyPv1ck9EllOUq2/egHPdWcZrnJ8OHDgbiPoKcU6qPTzDEd2dVZv8stP7fDkMAQ2P8iddfyUsSTvzKxp0E9QvVTVoghjsML+DOIVk5D01IwnNj89VfmJ6cQwmf9hwA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
