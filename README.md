@@ -1,6 +1,10 @@
-# MOTION TRACKER: A video-based software system for tracking motion over time
+# Motion Tracker
+A video-based software system for tracking motion over time
+
 Authors: Jacqueline Kory Westlund, Sidney D'Mello, Andrew Olney.
+
 Contact: jakory@media.mit.edu
+
 
 This program was developed with Microsoft Visual C# 2010 on a 64-bit Windows 7 machine.
 
@@ -15,11 +19,11 @@ The program has been tested on 64-bit Windows 7 Enterprise & Home Edition. It sh
 - You may need to install new video codecs so that the program can decode/encode video files. Installing a program such as [ffdshow] (http://sourceforge.net/projects/ffdshow-tryout/) can install many of the relevant codecs for you.
 
 ## Installation
-1.Download the MotionTrackerProgram.zip folder to your computer.
-2.Un-zip the folder.
-3.Double-click on the un-zipped folder.
-4.Open the folder "MotionTrackerProgram."
-5.Double-click the file "MotionTracker.exe" to run the program.
+1. Download the MotionTrackerProgram.zip folder to your computer.
+2. Un-zip the folder.
+3. Double-click on the un-zipped folder.
+4. Open the folder "MotionTrackerProgram."
+5. Double-click the file "MotionTracker.exe" to run the program.
 
 Note: If you download the source code, you can run the program by navigating to "MotionTracker\bin\x86\Release\" and double-clicking the file "MotionTracker.exe".
 
